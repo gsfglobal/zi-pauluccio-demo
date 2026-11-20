@@ -72,6 +72,10 @@ Nessuna foto è stata presa da Tripadvisor, Instagram, Facebook o da altri risto
 - Il rendering si ferma quando la hero esce dallo schermo.
 - Per presentazioni: `?3d=1` forza il 3D, `?3d=0` forza la versione statica.
 
+## Pubblicazione su GitHub Pages
+
+`./deploy-gh-pages.sh` compila con il percorso `/zi-pauluccio-demo` e pubblica sul branch `gh-pages` → https://gsfglobal.github.io/zi-pauluccio-demo/
+
 ## Pagine
 
 IT: `/` `/la-nostra-storia/` `/menu/` `/la-nostra-cucina/` `/gallery/` `/recensioni/` `/contatti/` `/prenota/` `/privacy/` `/cookie-policy/`
